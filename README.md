@@ -1,7 +1,5 @@
 # twitter-threads-yard
 
-![banner]()
-
 An archive to gather all my threads through out my journey on twitter. Great pieces of content about Web Development and my day to day learnings.
 
 ## Popular threads 🚀
@@ -25,7 +23,7 @@ A series of threads about some of CSS topics.
 
 
 ## Spaces till date
-I love doing UI design, experiment with UX design, sometimes I write threads about what I learn and my experience in the field.
+I love doing Twitter spaces around Developer stuff at What? Why? How ? - As a techie
 
 | Speakers         | Topic | Link|
 | ------------- | ------------- |------------- |
