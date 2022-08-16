@@ -1,8 +1,7 @@
 # twitter-threads-yard
 
-![banner](https://github.com/Yudai-creator/Yudai-creator/blob/master/BANNER%20TWITTER.png)
 
-An archive to gather all my threads through out my journey on twitter. Great pieces of content about Web Development and my day to day learnings.
+A yard to gather all my threads through out my journey on twitter. Great pieces of content about Web Development and my day to day learnings.
 
 ## Popular threads 🚀
 
