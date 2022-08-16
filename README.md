@@ -1,7 +1,8 @@
 # twitter-threads-yard
 
+![banner]()
 
-A yard to gather all my threads through out my journey on twitter. Great pieces of content about Web Development and my day to day learnings.
+An archive to gather all my threads through out my journey on twitter. Great pieces of content about Web Development and my day to day learnings.
 
 ## Popular threads 🚀
 
@@ -31,12 +32,6 @@ I love doing UI design, experiment with UX design, sometimes I write threads abo
 | Rahul Rana   |how can you crack frontend interviews|https://twitter.com/pujarini_codeit/status/1556302375488753664|
 | YK dojo      |How do content creators manage their time? |https://twitter.com/pujarini_codeit/status/1532699589463388165|
 | Shubhodeep  |No Engineering to Head of Engineering|https://twitter.com/pujarini_codeit/status/1529407115126661122|
-| UI/UX         |Take advantage of animations, 5 reasons why 👉 |https://twitter.com/creator_yudai/status/1434884402161623044?s=21|
-| UX            |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
-| UI            |Learn 5 UI desing principles for beginners |https://twitter.com/creator_yudai/status/1537268507284492288?s=20&t=lREeu9v28ZooFxkK-J-uxA|
-| UI            |How to get started as UI desinger |https://twitter.com/creator_yudai/status/1534501508410220550?s=20&t=lREeu9v28ZooFxkK-J-uxA|
-| UI/UX         |17 Free resources for UI designers |https://twitter.com/creator_yudai/status/1531613981902884867?s=20&t=lREeu9v28ZooFxkK-J-uxA|
-| UI/UX         |20 Free resources for UI designers part 2 |https://twitter.com/creator_yudai/status/1544288461481459713?s=20&t=lREeu9v28ZooFxkK-J-uxA|
 
 
 
