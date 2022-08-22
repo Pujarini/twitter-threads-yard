@@ -27,9 +27,17 @@ I love doing Twitter spaces around Developer stuff at What? Why? How ? - As a te
 
 | Speakers         | Topic | Link|
 | ------------- | ------------- |------------- |
+| Prashant Yadav  |How to prepare for senior frontend interviews?|https://twitter.com/i/spaces/1mnGedNbBZLKX?s=20|
 | Rahul Rana   |how can you crack frontend interviews|https://twitter.com/pujarini_codeit/status/1556302375488753664|
 | YK dojo      |How do content creators manage their time? |https://twitter.com/pujarini_codeit/status/1532699589463388165|
 | Shubhodeep  |No Engineering to Head of Engineering|https://twitter.com/pujarini_codeit/status/1529407115126661122|
+| Indrajit | Will machine learning take up human work?  |https://twitter.com/pujarini_codeit/status/1522773228220944384|
+| Yogini bende  |Why side projects are important as a developer? |https://twitter.com/pujarini_codeit/status/1508838314757193728|
+| Neha Sharma  |How to upskill as a software developer?|https://twitter.com/pujarini_codeit/status/1501385932104032258|
+| Sunny Puri  |How to upskill from junior to senior developer ?|https://twitter.com/pujarini_codeit/status/1497424258795933697|
+| Akshay Saini  |Personal branding as a developer and it's benefits |https://twitter.com/pujarini_codeit/status/1487351287033196544|
+| Rajender Joshi, Harshith Jain  |Why code reviews and estimations are important? |https://twitter.com/pujarini_codeit/status/1481704280600227846|
+| Ankush, Swaraj, sagar,Harshith  |Mistakes to avoid as a developer|https://twitter.com/pujarini_codeit/status/1476949093381394433|
 
 
 
